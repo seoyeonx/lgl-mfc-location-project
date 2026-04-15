@@ -1,0 +1,26 @@
+# images
+*.png
+*.jpg
+*.jpeg
+
+# data
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# docs / media
+*.pptx
+*.pdf
+*.m4a
+*.zip
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# env
+.venv/
