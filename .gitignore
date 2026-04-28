@@ -24,3 +24,11 @@ __pycache__/
 
 # env
 .venv/
+
+# GIS files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qpj
