@@ -24,6 +24,7 @@ __pycache__/
 
 # env
 .venv/
+.env/
 
 # GIS files
 *.shp
